@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NMCC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4811ED-0EE1-A752-A6D6-8F51B4EC4712}|Assembly-CSharp.csproj|f:\\nmcc1\\assets\\script\\testnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4811ED-0EE1-A752-A6D6-8F51B4EC4712}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\testnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestNavigation.cs",
+              "DocumentMoniker": "F:\\NMCC1\\Assets\\Script\\TestNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TestNavigation.cs",
+              "ToolTip": "F:\\NMCC1\\Assets\\Script\\TestNavigation.cs",
+              "RelativeToolTip": "Assets\\Script\\TestNavigation.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAIAwwLABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:38:23.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
